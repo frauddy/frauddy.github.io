@@ -514,7 +514,7 @@
           },
           "text1": "",
           "text2": "<br><br>",
-          "text3": "<p><br><br><br><b><br></b><br><b>Back to Top&nbsp;</b><br></p>"
+          "text3": "<p><br><br><br><b><br></b><br><b><a href=\"#top\">Back to Top&nbsp;</a></b><br></p>"
         }
       ]
     }
