@@ -492,8 +492,14 @@ h6,
   color: #fff;
 }
 #form2-m .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #000000;
 }
 #form1-p .form-control-label {
-  color: #232323;
+  color: #efefef;
+}
+#form1-p SMALL {
+  color: #000000;
+}
+#contacts1-t B {
+  font-size: 20px;
 }
