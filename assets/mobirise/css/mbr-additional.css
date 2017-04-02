@@ -498,7 +498,11 @@ h6,
   color: #efefef;
 }
 #form1-p SMALL {
-  color: #000000;
+  color: #ffffff;
+  text-align: left;
+}
+#form1-p .mbr-section-title {
+  color: #90a878;
 }
 #contacts1-t B {
   font-size: 20px;
